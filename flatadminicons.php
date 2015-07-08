@@ -11,7 +11,7 @@ License: GPLv2
 ?>
 
 <?php
-/*  Copyright 2013  Mel Choyce  (email : melissachoyce@gmail.com)
+/*  Copyright 2013  Mel Choyce
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
